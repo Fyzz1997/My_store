@@ -1,0 +1,11 @@
+FPGA芯片管脚的解释
+http://blog.sina.com.cn/s/blog_6dad298b0100wnun.html
+
+存储器基本知识（很不错）
+https://www.cnblogs.com/liujinggang/p/9782796.html
+
+FPGA图像处理基本技巧
+http://blog.sina.com.cn/s/blog_539ee1ae0102xtnz.html
+
+Vivado接口综合
+https://blog.csdn.net/weixin_41967965/article/details/82082082
